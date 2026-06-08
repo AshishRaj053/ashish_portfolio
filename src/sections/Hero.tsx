@@ -35,7 +35,7 @@ function Hero() {
 </h2>
 
 <p className="text-blue-400 text-lg mb-6">
-  Software Engineer @ HCLTech
+  Software Engineer
 </p>
 
             <p className="text-slate-400 text-lg mb-6 max-w-xl leading-relaxed">
