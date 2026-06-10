@@ -43,7 +43,7 @@ duration-300">
                   </p>
 
                   <p className="text-slate-500 text-sm">
-                    Jul 2024 - Present
+                    oct 2024 - Present
                   </p>
                 </div>
 
